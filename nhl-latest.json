@@ -1,0 +1,317 @@
+{
+  "date": "2026-04-28",
+  "fetchedAt": "2026-04-28T12:00:00Z",
+  "games": [
+    {
+      "gameId": "2025030115",
+      "homeTeam": "BUF",
+      "awayTeam": "BOS",
+      "homeScore": 1,
+      "awayScore": 2,
+      "gameState": "OFF",
+      "periodType": "OT",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394134642112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "03:35",
+          "teamAbbrev": "BUF",
+          "scorer": "Rasmus Dahlin",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Jason Zucker",
+            "Tage Thompson"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394119780112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394119780112",
+          "fallbackUrl": "https://nhl.com/video/bos-buf-dahlin-scores-ppg-against-jeremy-swayman-6394119780112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "09:24",
+          "teamAbbrev": "BOS",
+          "scorer": "Elias Lindholm",
+          "scorerSeasonTotal": 2,
+          "assists": [],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6394125167112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394125167112",
+          "fallbackUrl": "https://nhl.com/video/bos-buf-lindholm-scores-goal-against-alex-lyon-6394125167112"
+        },
+        {
+          "period": 4,
+          "periodType": "OT",
+          "timeInPeriod": "09:14",
+          "teamAbbrev": "BOS",
+          "scorer": "David Pastrnak",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Hampus Lindholm"
+          ],
+          "homeScore": 1,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6394132944112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394132944112",
+          "fallbackUrl": "https://nhl.com/video/bos-buf-pastrnak-scores-goal-against-alex-lyon-6394132944112"
+        }
+      ]
+    },
+    {
+      "gameId": "2025030165",
+      "homeTeam": "DAL",
+      "awayTeam": "MIN",
+      "homeScore": 2,
+      "awayScore": 4,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394134660112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "03:51",
+          "teamAbbrev": "MIN",
+          "scorer": "Mats Zuccarello",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Kirill Kaprizov",
+            "Ryan Hartman"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394121720112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394121720112",
+          "fallbackUrl": "https://nhl.com/video/min-dal-zuccarello-scores-goal-against-jake-oettinger-6394121720112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "08:58",
+          "teamAbbrev": "DAL",
+          "scorer": "Miro Heiskanen",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Jason Robertson",
+            "Matt Duchene"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6394122393112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394122393112",
+          "fallbackUrl": "https://nhl.com/video/min-dal-heiskanen-scores-ppg-against-jesper-wallstedt-6394122393112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "19:28",
+          "teamAbbrev": "MIN",
+          "scorer": "Matt Boldy",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Quinn Hughes",
+            "Kirill Kaprizov"
+          ],
+          "homeScore": 1,
+          "awayScore": 2,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394129458112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394129458112",
+          "fallbackUrl": "https://nhl.com/video/min-dal-boldy-scores-ppg-against-jake-oettinger-6394129458112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "07:47",
+          "teamAbbrev": "MIN",
+          "scorer": "Michael McCarron",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Yakov Trenin",
+            "Vladimir Tarasenko"
+          ],
+          "homeScore": 1,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394132174112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394132174112",
+          "fallbackUrl": "https://nhl.com/video/min-dal-mccarron-scores-goal-against-jake-oettinger-6394132174112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "16:39",
+          "teamAbbrev": "DAL",
+          "scorer": "Jason Robertson",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Miro Heiskanen",
+            "Mikko Rantanen"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394132233112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394132233112",
+          "fallbackUrl": "https://nhl.com/video/min-dal-robertson-scores-goal-against-jesper-wallstedt-6394132233112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "18:00",
+          "teamAbbrev": "MIN",
+          "scorer": "Kirill Kaprizov",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Matt Boldy",
+            "Jake Middleton"
+          ],
+          "homeScore": 2,
+          "awayScore": 4,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "backhand",
+          "videoId": "6394133620112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394133620112",
+          "fallbackUrl": "https://nhl.com/video/min-dal-kaprizov-scores-empty-net-goal-6394133620112"
+        }
+      ]
+    },
+    {
+      "gameId": "2025030185",
+      "homeTeam": "EDM",
+      "awayTeam": "ANA",
+      "homeScore": 4,
+      "awayScore": 1,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394142749112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "02:22",
+          "teamAbbrev": "EDM",
+          "scorer": "Vasily Podkolzin",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Evan Bouchard",
+            "Ryan Nugent-Hopkins"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394133755112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394133755112",
+          "fallbackUrl": "https://nhl.com/video/ana-edm-podkolzin-scores-goal-against-lukas-dostal-6394133755112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "08:33",
+          "teamAbbrev": "EDM",
+          "scorer": "Zach Hyman",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Ryan Nugent-Hopkins"
+          ],
+          "homeScore": 2,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "tip-in",
+          "videoId": "6394133895112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394133895112",
+          "fallbackUrl": "https://nhl.com/video/ana-edm-hyman-scores-goal-against-lukas-dostal-6394133895112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "10:13",
+          "teamAbbrev": "EDM",
+          "scorer": "Leon Draisaitl",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Evan Bouchard",
+            "Connor McDavid"
+          ],
+          "homeScore": 3,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "tip-in",
+          "videoId": "6394134985112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394134985112",
+          "fallbackUrl": "https://nhl.com/video/ana-edm-draisaitl-scores-goal-against-lukas-dostal-6394134985112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "08:26",
+          "teamAbbrev": "ANA",
+          "scorer": "Alex Killorn",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Mason McTavish",
+            "Cutter Gauthier"
+          ],
+          "homeScore": 3,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394136972112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394136972112",
+          "fallbackUrl": "https://nhl.com/video/ana-edm-killorn-scores-ppg-against-connor-ingram-6394136972112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "10:24",
+          "teamAbbrev": "EDM",
+          "scorer": "Leon Draisaitl",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Connor McDavid",
+            "Evan Bouchard"
+          ],
+          "homeScore": 4,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6394138526112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6394138526112",
+          "fallbackUrl": "https://nhl.com/video/ana-edm-draisaitl-scores-ppg-against-ville-husso-6394138526112"
+        }
+      ]
+    }
+  ]
+}

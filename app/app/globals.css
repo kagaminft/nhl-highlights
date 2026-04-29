@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a1628;
+  --foreground: #e8f4f8;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-lexend), Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Rink circle divider — used as a period section separator */
+.rink-divider {
+  background-image: repeating-linear-gradient(
+    90deg,
+    #4a9eca,
+    #4a9eca 6px,
+    transparent 6px,
+    transparent 14px
+  );
+  height: 2px;
+  width: 100%;
+  opacity: 0.5;
+}
